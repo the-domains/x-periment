@@ -1,0 +1,14 @@
+layout_spectrum: 0.5816899570636451
+typography_spectrum: 0.8473299634642899
+color:
+  brandStrength: 0.3496584026142955
+  lightness: 0.5154948502313346
+  saturation: 0.3389009200036526
+  rhythmicContrast: 0.46744366781786084
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: X-periment
