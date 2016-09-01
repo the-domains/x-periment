@@ -6,9 +6,9 @@ color:
   saturation: 0.3389009200036526
   rhythmicContrast: 0.46744366781786084
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: X-periment
